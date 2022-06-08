@@ -40,7 +40,7 @@ a {
 }
 
 .block {
-  background: rgba(128, 128, 128, 0.259);
+  background: rgb(181 179 179 / 6%);
   padding: 1rem;
   margin: 0.5rem;
   border-radius: 0.5rem;
