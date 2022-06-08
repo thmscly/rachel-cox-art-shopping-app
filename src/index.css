@@ -29,10 +29,6 @@ a {
   justify-content: space-between;
   align-items: baseline;
   text-align: center;
-  float: left;
-  width: 100px;
-  height: 100px;
-  object-fit: cover;
 }
 
 .col-1 {
