@@ -3,7 +3,6 @@ body {
     "Lucida Sans", Arial, sans-serif;
   max-width: 100%;
   color: rgb(0, 0, 0);
-  text-shadow: 1px 1px rgba(0, 0, 0, 0.473);
 }
 
 h1,
@@ -97,7 +96,7 @@ button.badge {
 }
 
 .disclaimer {
-  color: #bd4033d2;
+  color: rgb(255 39 17 / 82%);
   margin: auto;
   text-align: center;
 }
