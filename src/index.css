@@ -24,11 +24,17 @@ a {
 }
 
 .row {
-  display: flex;
+  /* display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: baseline;
-  text-align: center;
+  text-align: center; */
+  width: 20%;
+  height: auto;
+  min-height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: inline-block;
 }
 
 .col-1 {
