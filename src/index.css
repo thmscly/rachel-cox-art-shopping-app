@@ -40,10 +40,10 @@ a {
 }
 
 .block {
-  background: linear-gradient(
+  /* background: linear-gradient(
     rgba(22, 176, 163, 0.963),
     rgba(29, 161, 222, 0.964)
-  );
+  ); */
   padding: 1rem;
   margin: 0.5rem;
   border-radius: 0.5rem;
