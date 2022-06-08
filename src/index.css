@@ -2,7 +2,7 @@ body {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   max-width: 100%;
-  color: white;
+  color: rgb(142, 142, 142);
   text-shadow: 1px 1px rgba(0, 0, 0, 0.473);
 }
 
