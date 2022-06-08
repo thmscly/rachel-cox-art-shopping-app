@@ -39,12 +39,12 @@ function App() {
         <h1>Disclaimer: this site is a work-in-progress as a portfolio project. It is not yet functional.</h1>
       </div>
       <div className="row">
-        <Main onAdd={onAdd} products={products}></Main>
         <Basket
           onAdd={onAdd}
           onRemove={onRemove}
           cartItems={cartItems}
         ></Basket>
+        <Main onAdd={onAdd} products={products}></Main>
       </div>
     </div>
   );
