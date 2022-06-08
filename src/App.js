@@ -36,7 +36,7 @@ function App() {
     <div className="App">
       <Header countCartItems={cartItems.length}></Header>
       <div className='disclaimer'>
-        <h2>Disclaimer: this site is a work-in-progress as a portfolio project. It is not yet functional.</h2>
+        <h1>Disclaimer: this site is a work-in-progress as a portfolio project. It is not yet functional.</h1>
       </div>
       <div className="row">
         <Main onAdd={onAdd} products={products}></Main>
