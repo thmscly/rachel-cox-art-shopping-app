@@ -24,17 +24,11 @@ a {
 }
 
 .row {
-  /* display: flex;
+  display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: baseline;
-  text-align: center; */
-  width: 20%;
-  height: auto;
-  min-height: 100%;
-  overflow: hidden;
-  position: relative;
-  display: inline-block;
+  text-align: center;
 }
 
 .col-1 {
@@ -46,7 +40,7 @@ a {
 }
 
 .block {
-  background: rgb(181 179 179 / 6%);
+  background: #7a787829;
   padding: 1rem;
   margin: 0.5rem;
   border-radius: 0.5rem;
