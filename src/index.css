@@ -39,7 +39,10 @@ a {
 }
 
 .block {
-  background: #7a787829;
+  border-width: 10px;
+  border-color: #7788994a;
+  border-style: solid;
+  background: rgb(255 255 255 / 0%);
   padding: 1rem;
   margin: 0.5rem;
   border-radius: 0.5rem;
