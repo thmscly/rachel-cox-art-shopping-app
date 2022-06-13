@@ -19,7 +19,7 @@ export default function Header(props) {
                     )
                     }
 
-                </a> <a href="#/signing">Sign-In</a>
+                </a>
             </div>
         </header>
     )
