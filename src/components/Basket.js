@@ -1,5 +1,6 @@
 import React from "react";
 
+
 export default function Basket(props) {
     const { cartItems, onAdd, onRemove } = props;
     const itemsPrice = cartItems.reduce((a, c) => a + c.price * c.qty, 0);
