@@ -36,7 +36,7 @@ function App() {
     <div className="App">
       <Header countCartItems={cartItems.length}></Header>
       <div className='disclaimer'>
-        <h1>schublelumppeDisclaimer: this site is a work-in-progress as a portfolio project. It is not yet functional.</h1>
+        <h1>clubshlupschublelumppeDisclaimer: this site is a work-in-progress as a portfolio project. It is not yet functional.</h1>
       </div>
       <div className="row">
         <Basket
