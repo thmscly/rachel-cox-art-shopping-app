@@ -1,5 +1,7 @@
 This is a React shopping cart e-commerce app built to showcase and sell my wife's art.
 
+It's currently deployed through Netlify, and can be found here:https://rachelcoxart.com/
+
 It was done following tutorials with personalized built-from-scratch elements, and is intended to include the following tools:
 
     1. React
